@@ -1,0 +1,8 @@
+Criando projeto básico:
+Crtl,Shift,p -> Create new projec
+No build
+nome do projeto.
+
+Escrita: camelCase ex: variavelNovaCriada
+final String BR = "Brasil"; -> por causa do final na frente a gente ja sabe que a variavel não pode mudar
+
