@@ -18,3 +18,6 @@ a variavel é sempre no singulas, exceto quando se referir a um array ou coleç�
 
 defina um idioma único para suas variáveis.
 
+
+variaveis: long,byte,short,in, long,float,double
+final double VALOR_DE_PI = 3.14;  (Nome em caixa alta e final na frente vira cte)
