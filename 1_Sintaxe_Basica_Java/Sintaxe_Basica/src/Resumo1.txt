@@ -6,3 +6,15 @@ nome do projeto.
 Escrita: camelCase ex: variavelNovaCriada
 final String BR = "Brasil"; -> por causa do final na frente a gente ja sabe que a variavel não pode mudar
 
+
+pacotes:
+com -> comercial
+org -> Organizacional
+opensouce -> opensouce
+
+Java Beans
+
+a variavel é sempre no singulas, exceto quando se referir a um array ou coleção
+
+defina um idioma único para suas variáveis.
+
