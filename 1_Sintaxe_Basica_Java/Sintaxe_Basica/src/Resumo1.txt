@@ -21,3 +21,7 @@ defina um idioma único para suas variáveis.
 
 variaveis: long,byte,short,in, long,float,double
 final double VALOR_DE_PI = 3.14;  (Nome em caixa alta e final na frente vira cte)
+
+OPERADORES
+
+==, !=, <,>, =, +,-,*,/,%(o básico de outras linguagens)
