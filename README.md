@@ -1,2 +1,2 @@
 # Java-Curso
- Cursp de Java so básico ao avançado na plataforma dio
+ Cursp de Java do básico ao avançado na plataforma dio
