@@ -25,3 +25,10 @@ final double VALOR_DE_PI = 3.14;  (Nome em caixa alta e final na frente vira cte
 OPERADORES
 
 ==, !=, <,>, =, +,-,*,/,%(o básico de outras linguagens)
+
+use bastante o doc para conseguir ter uma explicação mais formal sobre o JAVA.
+https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+
+DO projeto em java, temos como caracteristicas:
+
+Pasta bin-> Nesta pasta ficarão os arquivos .class
