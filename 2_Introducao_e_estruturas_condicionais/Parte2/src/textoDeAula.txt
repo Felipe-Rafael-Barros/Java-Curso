@@ -1,0 +1,23 @@
+Tipos de estruturas de repetições
+
+if/else if/ else -> condicionais(simples,composta ou encadeada)
+
+Condião ternária
+String resultado = not >=7 ? "Aprovado" : "Reprovado"; 
+
+Swith Case
+
+swich(sigla_usada){
+    case "P":{
+        System.out.printl("PEQUENO");
+        break;
+    }
+    case "M":{
+        System.out.printl("MEDIO");
+        break;
+    }
+    case "G":{
+        System.out.printl("GRANDE");
+        break;
+    }
+}
