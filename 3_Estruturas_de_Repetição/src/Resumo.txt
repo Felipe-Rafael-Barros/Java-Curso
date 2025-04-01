@@ -1,0 +1,7 @@
+For, While, do While
+
+FOR
+for (int carneirinhos = 1; carneirinhos <=20;carneirinhos++)
+
+(valor inicial da variavel que vai ser acrescentada; até onde ela conta; como a variavel é acrescentada)
+
